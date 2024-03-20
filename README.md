@@ -1,5 +1,5 @@
-#File Organizer for macOS
-#File Organizer is a small and efficient Java-based utility designed for macOS users to automatically organize files within the Downloads folder. Upon downloading various files through web browsers or other applications, files often accumulate without any specific order. This utility eases the management of such files by categorizing and moving them to designated folders based on their file types.
+File Organizer for macOS\
+File Organizer is a small and efficient Java-based utility designed for macOS users to automatically organize files within the Downloads folder. Upon downloading various files through web browsers or other applications, files often accumulate without any specific order. This utility eases the management of such files by categorizing and moving them to designated folders based on their file types.
 
 #Features:
 #Automated Sorting: Monitors the Downloads folder and automatically moves new files to specified folders, such as "Images", "PDFs", and more, depending on their extensions.
